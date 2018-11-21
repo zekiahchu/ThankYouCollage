@@ -1,21 +1,27 @@
-# ThankYouCollage
+# Reference_Variables_If
+
+# GOALS For This Assignment
+Learn and Practice the creation of variables and if statements to create and control movement. 
 
 
-REQUIREMENTS For Your Thank You CODE
+# REQUIREMENTS 
+Take notes on Variable and if statements from the code reference slides
+Create a processing sketch using variables and if statements to make the movement of a shape(s) or line(s) within a defined area. 
+Submit a screenshot of code and sketch window to Google Classroom.
 
-Your Thank You CODE will include: <br>
-Interaction - using mouseX, mouseY <br>
-Movement - using if Statements (variables) <br>
-Text - some written message to the person you are thanking. <br>
-<p>
-Your Thank You CODE will also include 2 of these 3:<br>
-random - please show some retrait and control over your randomness<br>
-opacity - using if Statements (variables)<br>
-loadImage<br>
-<p>
-Also, you will research anywhere online <br>
-  ( for example:  processing.org/reference/ ) and learn something NEW, a new function that lets you do something in CODE you have never done before!
-<p>
-Make your size NO SMALLER than (700, 700). T can be BIGGER, of course, but please no smaller than 700,700.
+# NAMING Convention
+
+“REFERENCE_Variables_If”
+“ _ “ underscore in between words
+
+# Post code into forked GitHub file
+# Generate URL
+# TURN IN in Classroom
+
+# GRADING 
+
+Graded by meeting the requirements and timely completion of the assignment. 
+
+
 
 
