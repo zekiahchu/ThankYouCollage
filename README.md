@@ -3,7 +3,7 @@
 
 REQUIREMENTS For Your Thank You CODE
 
-Your Thank You CODE will include:
+Your Thank You CODE will include: <br>
 Interaction - using mouseX, mouseY
 Movement - using if Statements (variables)
 Text - some written message to the person you are thanking.
